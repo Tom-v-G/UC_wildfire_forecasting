@@ -1,6 +1,6 @@
 # UC_wildfire_forecasting
 
-This repository if for the course Urban computing at the Leiden University - LIACS      
+This repository is for the course Urban computing at the Leiden University - LIACS      
 
 ### Repository structure
 the *\models* directory holds the three trained models from the ConvLSTM architecture.      
@@ -14,7 +14,7 @@ The **Data exploration and neural net implementation.ipynb** notebook holds the 
 
         Data exploration of the Burned area patch dataset       
         Data exploration of the Burned area pixel dataset       
-        Visualisation of the **Burned area pixel** dataset      
+        Visualisation of the Burned area pixel dataset      
         Data pre-processing, model architecture and training of the ConvLSTM models     
         Visualisations of the results of the trained models.
 
